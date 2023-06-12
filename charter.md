@@ -273,15 +273,31 @@ available at www.lfprojects.org/trademarks/.
 
 ## 9) Technical Projects
 
-A Technical Project is defined as being an open source project that meets the
-following criteria.
+A Technical Project is defined under one of the following categories.
 
-#. It must meet the Trademarks requirement in Section 8.
+#. An open source project under the auspices of the Directed Fund.
 
-#. It must accept the eBPF Foundation as its primary support structure. For
-example, the applicable oversight body of the Technical Project agrees to send
-any budget requests to the eBPF Foundation and to abide by requirements and
-recommendations from the eBPF Foundation.
+   #. The open source project must accept the eBPF Foundation as its primary
+   support structure. For example, the applicable oversight body of the
+   Technical Project agrees to send any budget requests to the eBPF Foundation
+   and to abide by requirements and recommendations from the eBPF Foundation.
+
+#. A technical work item that creates open source, open data and/or open
+standards contributions towards the mission of the eBPF Foundation.
+
+   #. Contributions may be in the form of code submissions, reference
+   architectures, open standards, security audits, documentation or training
+   materials.
+
+   #. Contributions to an existing project must be targeted at an open source
+   project that uses eBPF as a core technology.
+
+   #. Contributions that are not targeted at an existing project are to be
+   published by the eBPF Foundation.
+
+The Technical Project must also meet the following criteria.
+
+#. Technical Projects must meet the Trademarks requirement in Section 8.
 
 #. The BSC must have voted to accept the project as being a Technical Project
 consistent with the mission and scope of the eBPF Foundation.
