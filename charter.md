@@ -153,34 +153,16 @@ the Technical Projects. The BSC will be responsible for:
    #. such other matters related to the technical role of the BSC as may be
    communicated to the BSC by the Governing Board
 
-#. The voting members of the BSC consist of:
-
-   #. Two Linux Kernel representatives from the group of eBPF Linux kernel
-   maintainers (as specified in the Linux eBPF maintainer file). The Linux
-   Kernel representatives must not be employed by the same Company or by
-   Related Companies.
-
-   #.  Up to two representatives from other open source eBPF runtime
-   implementations. Each “eBPF Runtime Representative” will represent a
-   different eBPF runtime chosen by the BSC, and must be an active contributor
-   to that eBPF runtime.
-
-   #. Up to three Technical Project representatives. Each Technical Project
-   Representative candidate must be an active contributor to a different
-   Technical Project chosen by the BSC.
-
-   #.  Up to two eBPF Landscape Project representatives. Each eBPF Landscape
-   Project Representative candidate must be an active contributor to a
-   different eBPF Landscape Project chosen by the BSC.
+#. The voting members of the BSC consist of [9] individuals with demonstrated
+   commitment to and expertise in various aspects of eBPF technology and its
+   ecosystem.
 
    There can be at most two representatives on the BSC employed by the same
    company or by Related Companies. While normally members will serve two-year
-   terms, the BSC will set initial term length so as to stagger elections.
-   Representatives from each project (Linux kernel, other runtimes, etc.) are
-   nominated by the applicable oversight body, such as the set of maintainers
-   or similar. of the project. All elected  representatives are subject to
-   ratification by the BSC which is responsible for ensuring the affiliation
-   limitations above across the set of all representatives.
+   terms, the BSC will set initial term length so as to stagger elections. All
+   elected  representatives are subject to ratification by the BSC which is
+   responsible for ensuring the affiliation limitations above across the set of
+   all representatives.
 
 #. One representative of any Member may observe meetings of the BSC. Any
 committers from a Technical Project may observe meetings of the BSC. The BSC
