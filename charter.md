@@ -4,22 +4,18 @@ the authoratitive source for the currently active version of the charter.
 # The eBPF Foundation Charter
 
 The Linux Foundation
-Amended August 23, 2022
+Amended X December, 2023
 
 ## 1) Mission and Scope of the eBPF Foundation.
 
 #. The purpose of the eBPF Foundation (the “Directed Fund”) is to raise, budget
-and spend funds in support of various open source, open data and/or open
-standards projects relating to eBPF technologies, including infrastructure and
-support initiatives related thereto (each project, a “Technical Project” as
-defined in Section 9).  The governance of each Technical Project is as set
-forth in the applicable charter for each Technical Project.
+and spend funds in support of the eBPF community and the “Technical Project(s)”
+as defined by the Project Progression Policy.
 
-#. The Directed Fund supports the Technical Projects. Except with respect to
-the operation of the BSC (as defined below), the Directed Fund operates under
-the guidance of the Governing Board of the Directed Fund (the “Governing
-Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux
-Foundation’s tax-exempt status.
+#. The Directed Fund supports the Technical Projects and broader eBPF
+ecosystem. The Directed Fund operates under the guidance of the Governing Board
+of the Directed Fund (the “Governing Board”) and The Linux Foundation (the
+“LF”) as may be consistent with The Linux Foundation’s tax-exempt status.
 
 #. The Governing Board manages the Directed Fund. The Directed Fund will also
 have working groups, councils, committees and similar bodies (collectively,
@@ -39,8 +35,8 @@ LF Board of Directors and/or the Directed Fund may adopt with notice to
 members.
 
 #. Platinum Members will be entitled to appoint a representative to the
-Governing Board and any Committee except for the BSC or Committees established
-by the BSC.
+Governing Board, DAC and any Committee created by the Governing Board, but not
+the BSC or any sub-committees established by the BSC.
 
 #. Silver Members, acting as a class, will be entitled to annually elect one
 representative to the Governing Board for every five Silver Members, up to a
@@ -66,12 +62,12 @@ confer any benefits or rights to the members of the Associate Member.
 
 #. The Governing Board voting members will consist of:
 
-   #. one representative appointed by each Platinum Member;
+   #. one representative appointed by each Platinum Member; and
 
    #. the elected Silver Member representative or representatives.
 
 #. Only one Member that is part of a group of Related Companies (as defined in
-Section 6) may appoint, or nominate for a membership class election, a
+Section 7) may appoint, or nominate for a membership class election, a
 representative on the Governing Board.  No single Member, company or set of
 Related Companies will be entitled to: (i) appoint or nominate for Membership
 class election more than one representative for the Governing Board, or (ii)
@@ -89,8 +85,8 @@ have more than two representatives on the Governing Board.
 
    #. The Governing Board meetings will be private unless decided otherwise by
    the Governing Board. The Governing Board may invite guests to participate in
-   consideration of specific Governing Board topics (but such guest may not
-   participate in any vote on any matter before the Governing Board).
+   the consideration of specific Governing Board topics (but such guest(s) may
+   not participate in any vote on any matter before the Governing Board).
 
 #. Officers
 
@@ -98,38 +94,73 @@ have more than two representatives on the Governing Board.
    the Governing Board will be a Chairperson (“Chair”) and a Treasurer.
    Additional Officer positions may be created by the Governing Board.
 
-   #. The Chair will preside over meetings of the Governing Board, manage any
-   day-to-day operational decisions, and will submit minutes for Governing
-   Board approval.
+   #. The Chair will preside over meetings of the Governing Board, and manage
+   any day-to-day operational decisions.
 
    #. The Treasurer will assist in the preparation of budgets for Governing
-   Board approval, monitor expenses against the budget and authorize
+   Board approval, monitor expenditures against the budget, and authorize
    expenditures approved in the budget.
 
 #. The Governing Board will be responsible for overall management of the
 Directed Fund, including:
 
-   #. create Committees of the Governing Board;
+   #. creating Committees of the Governing Board;
 
-   #. approve a budget directing the use of funds raised by the Directed Fund
+   #. approving a budget directing the use of funds raised by the Directed Fund
    from all sources of revenue;
 
-   #. nominate and elect Officers of the Directed Fund;
+   #. nominating and electing Officers of the Directed Fund;
 
-   #. except for those matters that are the responsibility of the BSC, oversee
-   all Directed Fund business matters and work with the LF on any legal matters
-   that arise;
+   #. overseeing all Directed Fund business matters and work with the LF on any
+   legal matters that arise;
 
-   #. adopt and maintain policies or rules and procedures for the Directed Fund
-   (subject to LF approval);
+   #. adopting and maintaining policies or rules and procedures for the
+   Directed Fund (subject to LF approval);
 
-   #. approve procedures for the nomination and election of any representative
-   of the Silver Members to the Governing Board and any Officer or other
-   positions created by the Governing Board; and
+   #. approving procedures for the nomination and election of any
+   representative of the Silver Members to the Governing Board and any Officer
+   or other positions created by the Governing Board; and
 
-   #. vote on all decisions or matters coming before the Governing Board.
+   #. voting on all decisions or matters coming before the Governing Board.
 
-## 4) eBPF Steering Committee (“BSC”)
+# 4) Developer Advocacy Committee (“DAC”)
+
+#. The DAC voting members will consist of one representative appointed by each
+Platinum Member. The Governing Board may create additional
+representatives from other membership levels, and up to 3? elected community
+representatives.
+
+   #. Community representatives and voters shall be contributors of code,
+   documentation, or marketing support to one or more of the Technical (and
+   Landscape?) projects
+
+#. The role of the DAC is to propose community development activities to the
+Governing Board, and coordinate and evangelize eBPF Projects and technologies
+to current and potential developers and users. The DAC will engage with the
+eBPF developer and user community and coordinate with the BSC and marketing
+committee. The DAC will report to and regularly provide updates to the
+Governing Board.
+
+#. The DAC will be responsible for:
+
+   #. Working with the BSC and marketing committee to develop and execute a
+   plan for technical marketing (e.g. developer relations at events) that are a
+   high priority to support the eBPF mission.
+
+   #. approving and managing projects that decide to join the eBPF Foundation
+   (each an “eBPF Foundation Project”), including:
+
+      #. maintaining requirements and the process for a project applying to
+      become an eBPF Technical Project;
+
+      #. Reviewing Technical Project applications and providing recommendations
+      to Board for final induction approval;
+
+      #. approving and maintaining an eBPF Foundation Project lifecycle policy
+      that will address the incubation, archival and other stages and
+      requirements of Technical Projects.
+
+## 5) eBPF Steering Committee (“BSC”)
 
 #. The role of the BSC is to facilitate communication and collaboration among
 the Technical Projects. The BSC will be responsible for:
@@ -196,34 +227,31 @@ Projects.
 minutes are taken and drive the BSC agenda with input from the BSC
 representatives.
 
-## 5) Voting
+## 6) Voting
 
-#. Quorum for Governing Board, BSC and other Committee meetings will require at
-least sixty percent of the voting representatives. If advance notice of the
-meeting has been given per normal means and timing, the Governing Board may
-continue to meet even if quorum is not met, but will be prevented from making
-any decisions at the meeting.
+#. Quorum for Governing Board, DAC, BSC and other Committee meetings will
+require at least sixty percent of the voting representatives. If advance notice
+of the meeting has been given per normal means and timing, the Governing Board
+may continue to meet even if quorum is not met, but will be prevented from
+making any decisions at the meeting.
 
-#. Ideally decisions will be made based on consensus. If, however, any decision
-requires a vote to move forward, the representatives of the Governing Board,
-BSC or Committee, as applicable, will vote on a one vote per voting
+#. Ideally, decisions will be made based on consensus. If, however, any
+decision requires a vote to move forward, the representatives of the Governing
+Board, DAC, BSC or Committee, as applicable, will vote on a one-vote-per-voting
 representative basis.
 
-#. Except as provided in Section 13.a. or elsewhere in this Charter, decisions
-by vote at a meeting will require a simple majority vote, provided quorum is
-met. Except as provided in Section 16.a. or elsewhere in this Charter,
-decisions by electronic vote without a meeting will require a majority of all
+#. unless a different threshold is specified in this Charter, Decisions by vote
+at a meeting will require a simple majority vote, provided quorum is met.
+Decisions by electronic vote without a meeting will require a majority of all
 voting representatives.
 
 #. In the event of a tied vote with respect to an action that cannot be
-resolved by the Governing Board, BSC or other Committee, the Chair (in the case
-of the Governing Board or BSC) or a Committee member (in the case other
-Committees) may refer the matter to the Governing Board or BSC in the case of a
-Committee or in the case of the Governing Board or the BSC, the LF for
-assistance in reaching a decision.
+resolved by the Governing Board, DAC, BSC, or other Committee, the Chair (in
+the case of the Governing Board, DAC, or BSC) or a Committee member (in the
+case other Committees) may refer the matter to the Governing Board or the LF
+for assistance in reaching a decision.
 
-
-## 6) Subsidiaries and Related Companies
+## 7) Subsidiaries and Related Companies
 
 #. Definitions:
 
@@ -257,34 +285,19 @@ and obligations to a successor of substantially all of its business or assets,
 whether by merger, sale or otherwise; provided that the transferee agrees to be
 bound by this Charter and the Bylaws and policies required by LF membership.
 
-## 7) Good Standing
+## 8) Good Standing
 
 #. The Linux Foundation’s Good Standing Policy is available at
 https://www.linuxfoundation.org/good-standing-policy and will apply to Members
 of this Directed Fund.
 
-## 8) Trademarks
+## 9) Trademarks
 
 #. Any trademarks relating to the Directed Fund or the Technical Projects,
 including without limitation any mark relating to any conformance program, must
 be transferred to and held by LF Projects, LLC or the Linux Foundation and
 available for use pursuant to LF Projects, LLC’s trademark usage policy,
 available at www.lfprojects.org/trademarks/.
-
-## 9) Technical Projects
-
-A Technical Project is defined as being an open source project that meets the
-following criteria.
-
-#. It must meet the Trademarks requirement in Section 8.
-
-#. It must accept the eBPF Foundation as its primary support structure. For
-example, the applicable oversight body of the Technical Project agrees to send
-any budget requests to the eBPF Foundation and to abide by requirements and
-recommendations from the eBPF Foundation.
-
-#. The BSC must have voted to accept the project as being a Technical Project
-consistent with the mission and scope of the eBPF Foundation.
 
 ## 10) Antitrust Guidelines
 
@@ -346,5 +359,5 @@ Board and confirmed by The Linux Foundation.
 
 ## 14) Amendments
 
-#. This Charter may be amended by a 70% vote of the entire Governing Board and
-BSC, subject to approval by The Linux Foundation.
+#. This Charter may be amended by a two-thirds vote of the entire Governing
+Board and BSC, subject to approval by The Linux Foundation.
