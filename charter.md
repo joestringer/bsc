@@ -9,13 +9,11 @@ Amended 12 February, 2024
 ## 1) Mission and Scope of the eBPF Foundation.
 
 #. The purpose of the eBPF Foundation (the “Directed Fund”) is to raise, budget
-and spend funds in support of various open source, open data and/or open
-standards projects relating to eBPF technologies, including infrastructure and
-support initiatives related thereto (each project, a “Technical Project” as
-as defined by the Project Progression Policy).
+and spend funds in support of the eBPF community and the “Technical Project(s)”
+as defined by the Project Progression Policy.
 
-#. The Directed Fund supports the Technical Projects.
-The Directed Fund operates under the guidance of the Governing Board
+#. The Directed Fund supports the Technical Projects and broader eBPF
+ecosystem. The Directed Fund operates under the guidance of the Governing Board
 of the Directed Fund (the “Governing Board”) and The Linux Foundation (the
 “LF”) as may be consistent with The Linux Foundation’s tax-exempt status.
 
