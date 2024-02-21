@@ -62,7 +62,7 @@ confer any benefits or rights to the members of the Associate Member.
 
 #. The Governing Board voting members will consist of:
 
-   #. one representative appointed by each Platinum Member;
+   #. one representative appointed by each Platinum Member; and
 
    #. the elected Silver Member representative or representatives.
 
@@ -85,8 +85,8 @@ have more than two representatives on the Governing Board.
 
    #. The Governing Board meetings will be private unless decided otherwise by
    the Governing Board. The Governing Board may invite guests to participate in
-   consideration of specific Governing Board topics (but such guest may not
-   participate in any vote on any matter before the Governing Board).
+   the consideration of specific Governing Board topics (but such guest(s) may
+   not participate in any vote on any matter before the Governing Board).
 
 #. Officers
 
@@ -98,30 +98,30 @@ have more than two representatives on the Governing Board.
    any day-to-day operational decisions.
 
    #. The Treasurer will assist in the preparation of budgets for Governing
-   Board approval, monitor expenses against the budget and authorize
+   Board approval, monitor expenditures against the budget, and authorize
    expenditures approved in the budget.
 
 #. The Governing Board will be responsible for overall management of the
 Directed Fund, including:
 
-   #. create Committees of the Governing Board;
+   #. creating Committees of the Governing Board;
 
-   #. approve a budget directing the use of funds raised by the Directed Fund
+   #. approving a budget directing the use of funds raised by the Directed Fund
    from all sources of revenue;
 
-   #. nominate and elect Officers of the Directed Fund;
+   #. nominating and electing Officers of the Directed Fund;
 
    #. overseeing all Directed Fund business matters and work with the LF on any
    legal matters that arise;
 
-   #. adopt and maintain policies or rules and procedures for the Directed Fund
-   (subject to LF approval);
+   #. adopting and maintaining policies or rules and procedures for the
+   Directed Fund (subject to LF approval);
 
-   #. approve procedures for the nomination and election of any representative
-   of the Silver Members to the Governing Board and any Officer or other
-   positions created by the Governing Board; and
+   #. approving procedures for the nomination and election of any
+   representative of the Silver Members to the Governing Board and any Officer
+   or other positions created by the Governing Board; and
 
-   #. vote on all decisions or matters coming before the Governing Board.
+   #. voting on all decisions or matters coming before the Governing Board.
 
 ## 4) eBPF Steering Committee (“BSC”)
 
@@ -207,9 +207,9 @@ meeting has been given per normal means and timing, the Governing Board may
 continue to meet even if quorum is not met, but will be prevented from making
 any decisions at the meeting.
 
-#. Ideally decisions will be made based on consensus. If, however, any decision
+#. Ideally, decisions will be made based on consensus. If, however, any decision
 requires a vote to move forward, the representatives of the Governing Board,
-BSC or Committee, as applicable, will vote on a one vote per voting
+BSC or Committee, as applicable, will vote on a one-vote-per-voting
 representative basis.
 
 #. unless a different threshold is specified in this Charter, Decisions by vote
@@ -218,10 +218,9 @@ Decisions by electronic vote without a meeting will require a majority of all
 voting representatives.
 
 #. In the event of a tied vote with respect to an action that cannot be
-resolved by the Governing Board, BSC or other Committee, the Chair (in the case
-of the Governing Board or BSC) or a Committee member (in the case other
-Committees) may refer the matter to the Governing Board or BSC in the case of a
-Committee or in the case of the Governing Board or the BSC, the LF for
+resolved by the Governing Board, BSC, or other Committee, the Chair (in the
+case of the Governing Board or BSC) or a Committee member (in the case other
+Committees) may refer the matter to the Governing Board or the LF for
 assistance in reaching a decision.
 
 ## 6) Subsidiaries and Related Companies
@@ -280,7 +279,7 @@ at http://www.linuxfoundation.org/antitrust-policy.
 #. All Members must encourage open participation from any organization able to
 meet the membership requirements, regardless of competitive interests. Put
 another way, the Governing Board will not seek to exclude any member based on
-any criteria, requirements or reasons other than those that are reasonable and
+any criteria, requirements, or reasons other than those that are reasonable and
 applied on a non-discriminatory basis to all members.
 
 ## 10) Budget
