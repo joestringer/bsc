@@ -130,66 +130,75 @@ Directed Fund, including:
 
 ## 4) eBPF Steering Committee (“BSC”)
 
-#. The role of the BSC is to facilitate communication and collaboration among
-the Technical Projects. The BSC will be responsible for:
+#. The BSC is composed of maintainers from the eBPF community, including, the
+Linux kernel, eBPF runtimes, and landscape projects. There can be at most two
+representatives on the BSC employed by the same company or by Related
+Companies.
 
-   #. coordinating collaboration among Technical Projects, including
+#. The BSC will operate independently to facilitate the technical development
+collaborations helpful to eBPF’s developer and user communities. The BSC will
+be responsible for:
+
+   #. coordinating collaboration within the eBPF community, including the
    development of an overall technical vision for the community;
 
-   #. making recommendations to the Governing Board of resource priorities for
-   Technical Projects;
+   #. proposing community development activities to the Governing Board, and
+   coordinating and evangelizing eBPF Projects and technologies to current and
+   potential developers and users.
 
-   #. defining the minimal requirements of Technical Projects;
+   #. defining requirements and the process for a project applying to become an
+   eBPF Foundation Project;
 
-   #. communicating on behalf of the eBPF community;
+   #. ensuring eBPF Foundation Projects follow all requirements for trademark
+   and account ownership, and
 
-   #. establishing and overseeing committees focused on driving the mission of
-   the eBPF Foundation including eBPF community events;
+   #. approving and maintaining an eBPF Foundation Project lifecycle policy
+   that will address the incubation, archival and other stages and requirements
+   of Technical Projects.
 
-   #. creating, maintaining and amending Technical Project lifecycle procedures
-   and processes; and
+   #. proposing priorities to the Governing Board for events, travel funds, and
+   other investments to grow the eBPF community of developers and users.
 
-   #. such other matters related to the technical role of the BSC as may be
-   communicated to the BSC by the Governing Board
+   #. identifying and facilitating areas of collaboration with adjacent open
+   source communities to support eBPF’s use and adoption, such as communities
+   focused on compilers, kernels, and debuggers; and
 
-#. The voting members of the BSC consist of:
+#. Expansion, Removal, and Vacancies
 
-   #. Two Linux Kernel representatives from the group of eBPF Linux kernel
-   maintainers (as specified in the Linux eBPF maintainer file). The Linux
-   Kernel representatives must not be employed by the same Company or by
-   Related Companies.
+   #. Expansion:
 
-   #.  Up to two representatives from other open source eBPF runtime
-   implementations. Each “eBPF Runtime Representative” will represent a
-   different eBPF runtime chosen by the BSC, and must be an active contributor
-   to that eBPF runtime.
+      #. Any member of the BSC may propose a new member to the BSC. If
+      supported by a second BSC member, the BSC will vote on acceptance of the
+      new member.
 
-   #. Up to three Technical Project representatives. Each Technical Project
-   Representative candidate must be an active contributor to a different
-   Technical Project chosen by the BSC.
+      #. The GB (by decision of the GB) may nominate a new member to the BSC by
+      a majority vote of the GB. The BSC will vote on the acceptance of the new
+      BSC member.
 
-   #.  Up to two eBPF Landscape Project representatives. Each eBPF Landscape
-   Project Representative candidate must be an active contributor to a
-   different eBPF Landscape Project chosen by the BSC.
+      #. Acceptance of a new BSC member requires a two-thirds approval vote of
+      the entire BSC.
 
-   There can be at most two representatives on the BSC employed by the same
-   company or by Related Companies. While normally members will serve two-year
-   terms, the BSC will set initial term length so as to stagger elections.
-   Representatives from each project (Linux kernel, other runtimes, etc.) are
-   nominated by the applicable oversight body, such as the set of maintainers
-   or similar. of the project. All elected  representatives are subject to
-   ratification by the BSC which is responsible for ensuring the affiliation
-   limitations above across the set of all representatives.
+   #. Removal
 
-#. One representative of any Member may observe meetings of the BSC. Any
-committers from a Technical Project may observe meetings of the BSC. The BSC
-may change this at any point in time, including: (a) opening meetings to a
-broader community; (b) holding closed meetings; and (c) holding meetings open
-to the public.
+      #. Any member of the BSC may be removed by a two-thirds approval of the
+      other BSC members. The member subject to a removal vote shall not be
+      eligible to vote, shall not be counted as part of the quorum for the
+      meeting during which the matter is considered, and shall not be
+      considered in the calculation of vote results.
 
-#. The BSC may approve a Technical Project lifecycle policy that will address
-the incubation, archival and other stages and requirements of Technical
-Projects.
+   #. Vacancies. If any member of the BSC is removed, resigns, or quietly
+   resigns by virtue of being unreachable or disengaged for more than 60 days,
+   a vacancy will exist.
+
+      #. If the BSC has fewer than 9 members, any BSC member may nominate a new
+      candidate to fill the vacancy. If there is only 1 nominee, the BSC may
+      approve the nominee by a majority vote of the entire BSC. If there are
+      multiple nominees, the nominees will be voted on by the BSC members using
+      ranked choice voting, with the top selection winning the vacant seat.
+
+      #. If the BSC has 9 or more members, the BSC may decide by majority vote
+      whether to fill the vacancy or not, and any nominee will require a
+      two-thirds approval of the entire BSC.
 
 #. The BSC representatives will elect a chair to preside over meetings, ensure
 minutes are taken and drive the BSC agenda with input from the BSC
