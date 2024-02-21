@@ -94,9 +94,8 @@ have more than two representatives on the Governing Board.
    the Governing Board will be a Chairperson (“Chair”) and a Treasurer.
    Additional Officer positions may be created by the Governing Board.
 
-   #. The Chair will preside over meetings of the Governing Board, manage any
-   day-to-day operational decisions, and will submit minutes for Governing
-   Board approval.
+   #. The Chair will preside over meetings of the Governing Board, and manage
+   any day-to-day operational decisions.
 
    #. The Treasurer will assist in the preparation of budgets for Governing
    Board approval, monitor expenses against the budget and authorize
