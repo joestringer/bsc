@@ -333,5 +333,5 @@ Board and confirmed by The Linux Foundation.
 
 ## 13) Amendments
 
-#. This Charter may be amended by a 70% vote of the entire Governing Board and
-BSC, subject to approval by The Linux Foundation.
+#. This Charter may be amended by a two-thirds vote of the entire Governing
+Board and BSC, subject to approval by The Linux Foundation.
