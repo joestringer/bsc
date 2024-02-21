@@ -14,11 +14,10 @@ standards projects relating to eBPF technologies, including infrastructure and
 support initiatives related thereto (each project, a “Technical Project” as
 as defined by the Project Progression Policy).
 
-#. The Directed Fund supports the Technical Projects. Except with respect to
-the operation of the BSC (as defined below), the Directed Fund operates under
-the guidance of the Governing Board of the Directed Fund (the “Governing
-Board”) and The Linux Foundation (the “LF”) as may be consistent with The Linux
-Foundation’s tax-exempt status.
+#. The Directed Fund supports the Technical Projects.
+The Directed Fund operates under the guidance of the Governing Board
+of the Directed Fund (the “Governing Board”) and The Linux Foundation (the
+“LF”) as may be consistent with The Linux Foundation’s tax-exempt status.
 
 #. The Governing Board manages the Directed Fund. The Directed Fund will also
 have working groups, councils, committees and similar bodies (collectively,
@@ -38,8 +37,8 @@ LF Board of Directors and/or the Directed Fund may adopt with notice to
 members.
 
 #. Platinum Members will be entitled to appoint a representative to the
-Governing Board and any Committee except for the BSC or Committees established
-by the BSC.
+Governing Board and any Committee created by the Governing Board, but not the
+BSC or any sub-committees established by the BSC.
 
 #. Silver Members, acting as a class, will be entitled to annually elect one
 representative to the Governing Board for every five Silver Members, up to a
@@ -115,9 +114,8 @@ Directed Fund, including:
 
    #. nominate and elect Officers of the Directed Fund;
 
-   #. except for those matters that are the responsibility of the BSC, oversee
-   all Directed Fund business matters and work with the LF on any legal matters
-   that arise;
+   #. overseeing all Directed Fund business matters and work with the LF on any
+   legal matters that arise;
 
    #. adopt and maintain policies or rules and procedures for the Directed Fund
    (subject to LF approval);
