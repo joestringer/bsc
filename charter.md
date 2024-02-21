@@ -212,10 +212,9 @@ requires a vote to move forward, the representatives of the Governing Board,
 BSC or Committee, as applicable, will vote on a one vote per voting
 representative basis.
 
-#. Except as provided in Section 13.a. or elsewhere in this Charter, decisions
-by vote at a meeting will require a simple majority vote, provided quorum is
-met. Except as provided in Section 16.a. or elsewhere in this Charter,
-decisions by electronic vote without a meeting will require a majority of all
+#. unless a different threshold is specified in this Charter, Decisions by vote
+at a meeting will require a simple majority vote, provided quorum is met.
+Decisions by electronic vote without a meeting will require a majority of all
 voting representatives.
 
 #. In the event of a tied vote with respect to an action that cannot be
