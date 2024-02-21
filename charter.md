@@ -4,7 +4,7 @@ the authoratitive source for the currently active version of the charter.
 # The eBPF Foundation Charter
 
 The Linux Foundation
-Amended August 23, 2022
+Amended 12 February, 2024
 
 ## 1) Mission and Scope of the eBPF Foundation.
 
@@ -12,8 +12,7 @@ Amended August 23, 2022
 and spend funds in support of various open source, open data and/or open
 standards projects relating to eBPF technologies, including infrastructure and
 support initiatives related thereto (each project, a “Technical Project” as
-defined in Section 9).  The governance of each Technical Project is as set
-forth in the applicable charter for each Technical Project.
+as defined by the Project Progression Policy).
 
 #. The Directed Fund supports the Technical Projects. Except with respect to
 the operation of the BSC (as defined below), the Directed Fund operates under
@@ -270,22 +269,7 @@ be transferred to and held by LF Projects, LLC or the Linux Foundation and
 available for use pursuant to LF Projects, LLC’s trademark usage policy,
 available at www.lfprojects.org/trademarks/.
 
-## 9) Technical Projects
-
-A Technical Project is defined as being an open source project that meets the
-following criteria.
-
-#. It must meet the Trademarks requirement in Section 8.
-
-#. It must accept the eBPF Foundation as its primary support structure. For
-example, the applicable oversight body of the Technical Project agrees to send
-any budget requests to the eBPF Foundation and to abide by requirements and
-recommendations from the eBPF Foundation.
-
-#. The BSC must have voted to accept the project as being a Technical Project
-consistent with the mission and scope of the eBPF Foundation.
-
-## 10) Antitrust Guidelines
+## 9) Antitrust Guidelines
 
 #. All Members must abide by The Linux Foundation’s Antitrust Policy available
 at http://www.linuxfoundation.org/antitrust-policy.
@@ -296,7 +280,7 @@ another way, the Governing Board will not seek to exclude any member based on
 any criteria, requirements or reasons other than those that are reasonable and
 applied on a non-discriminatory basis to all members.
 
-## 11) Budget
+## 10) Budget
 
 #. The Governing Board will approve an annual budget and never commit to spend
 in excess of funds raised. The budget and the purposes to which it is applied
@@ -313,7 +297,7 @@ covered in full by funds raised by the Directed Fund.
 to the Directed Fund, The Linux Foundation will coordinate with the Governing
 Board to address gap funding requirements.
 
-## 12) General & Administrative Expenses
+## 11) General & Administrative Expenses
 
 #. The Linux Foundation will have custody of and final authority over the usage
 of any fees, funds and other cash receipts.
@@ -324,7 +308,7 @@ resources operations. The G&A fee will be 9% of the Directed Fund’s first
 $1,000,000 of gross receipts each year and 6% of the Directed Fund’s gross
 receipts each year over $1,000,000.
 
-## 13) General Rules and Operations.
+## 12) General Rules and Operations.
 
 The Directed Fund activities must:
 
@@ -343,7 +327,7 @@ Foundation; and
 #. operate under such rules and procedures as may be approved by the Governing
 Board and confirmed by The Linux Foundation.
 
-## 14) Amendments
+## 13) Amendments
 
 #. This Charter may be amended by a 70% vote of the entire Governing Board and
 BSC, subject to approval by The Linux Foundation.
